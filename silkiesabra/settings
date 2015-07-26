@@ -1,0 +1,29 @@
+The below can be copied and pasted to "defaultsettings" notecard
+Replacing old entries, but must include Designer defaults (if present):
+
+#---My Settings---#
+User_listener=channel~1,FALSE
+User_rlvundress=smartstrip~1
+User_KBTP=dests~Temple~Haven VI,OC Datacenter~Mantle,KBar Build~Tahiti,Home~Tahiti,Rental Center~Litchi,Collar and Coin~Kuradov,Open Collar~Haven VI,Guest House~Melanthia,Skua's House~McKindred Shores,Lords Lair~Poussin~Active~y
+User_auth=owner~4986014c-2eaa-4c39-a423-04e1819b0fbf,Kurt Burleigh~runawayDisable~1
+User_auth=secowners~db7a4256-61dd-4628-b188-1e3f718beeea,Teegan Rainier,267b30be-0be0-4cc2-a67b-876b30e3a28d,letheam Resident,6a7c66ab-f599-4077-b232-81798f53f79f,mrsternn Resident,094dc638-4b6d-4191-8a8d-2740a1989985,Skua Sarrasine
+User_auth=group~e4423682-acdc-2130-fb88-ae6160f64c8a~groupname~K-Bar West
+User_rlvmain=on~1
+User_rlvrelay=settings~mode:143
+User_Global=prefix~si~locked~1
+User_kbprog=List~ProgramRun,y,ProgLoop,y
+User_rlvex=List~94d33b6b-b123-4517-b733-af442c9e9c3c,12,267b30be-0be0-4cc2-a67b-876b30e3a28d,12,a17bb3bf-f573-4987-81c9-607cbb015493,12,2dae3d62-369e-40b2-ba02-f414814d5d5d,12
+User_kbmuter=List~MuteOn,y~Active~Y
+User_titler=title~Property of Judge Kurt Burleigh~on~1~auth~501
+User_bookmarks=OC Datacenter~Mantle(7,100,1235)~KBar Build~Tahiti(138,167,25)~Home~Tahiti(121,130,1223)~Rental Center~Litchi(166,148,551)~Collar and Coin~Kuradov(33,243,26)~Open Collar~Haven VI(217,62,37)~Guest House~Melanthia(196,129,2012)
+User_bookmarks=Skua's House~McKindred Shores(21,244,29)~Lords Lair~Poussin(52,107,24)
+User_leash=leashlength~2~unleashself~0~leashedto~4986014c-2eaa-4c39-a423-04e1819b0fbf,500,1,0
+User_rlvmisc=showhovertexthud~y~shownames~y
+User_texture=Center~97320305-1994-8c7a-8ded-fd2799d1573b~Padding~b0249043-106c-0a62-e10b-7e9b0105d1a3~Bell~1c93a5ca-9143-903a-086a-0e5eca043271~Ring~1c93a5ca-9143-903a-086a-0e5eca043271~Trim~1c93a5ca-9143-903a-086a-0e5eca043271
+User_shininess=Trim~0~Bell~0~Center~0~Padding~0~Ring~0
+User_s-talk=slavetalk~off~phrases~this silly girl,a mere slut,a miserable beast,this helpless seal, this worthless slave,an enslaved seal,a slave, Judge Burleigh's slut, a K-Bar slave
+User_anim=PoseMoveWalk~~walk_LG3~PoseMoveRun~~run_LG3~TweakPoseAO~1~currentpose~naduw,503
+User_kbinvctl=Restricted~N~Stealth~Y,500~UseGroup~Y,500
+User_kbleash=unleashself~0
+User_rlvtalk=List~emote,add,recvim,n,sendim,n,sendchat,n
+User_stealth=list~Litchi
