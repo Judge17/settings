@@ -1,6 +1,6 @@
 User_listener=channel~1,FALSE
 User_rlvundress=smartstrip~1
-User_KBTP=dests~Temple~Haven VI,OC Datacenter~Mantle,KBar Build~Tahiti,Home~Tahiti,Skua's House~McKindred Shores,Lords Lair~Poussin~Active~y
+User_KBTP=dests~Temple~Haven VI,OC Datacenter~Mantle,KBar Build~Tahiti,Home~Tahiti,Skua's House~McKindred Shores,Lords Lair~Poussin~Active~n
 User_auth=owner~4986014c-2eaa-4c39-a423-04e1819b0fbf,Kurt Burleigh~runawayDisable~1
 User_auth=group~e4423682-acdc-2130-fb88-ae6160f64c8a~groupname~K-Bar West
 User_rlvmain=on~1
