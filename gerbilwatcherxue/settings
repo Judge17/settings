@@ -16,4 +16,4 @@ User_texture=Center~97320305-1994-8c7a-8ded-fd2799d1573b~Padding~b0249043-106c-0
 User_shininess=Trim~0~Bell~0~Center~0~Padding~0~Ring~0
 User_kbinvctl=Restricted~N~Stealth~Y,500~UseGroup~Y,500
 User_kbmuter=List~MuteOn,n~BaseLevel~0~BaseRenamer~0~BaseLimitChat~0~BaseLimitStart~0~BaseLimitIMs~0~EnhdRenamer~0~EnhdLimitChat~0~EnhdLimitStart~0~EnhdLimitIMs~0~SlaveName~g
-User_rlvtalk=List~emote,add,recvim,n,sendim,n,sendchat,n
+User_rlvtalk=List~recvim,y,sendim,y,sendchat,y,emote,rem
