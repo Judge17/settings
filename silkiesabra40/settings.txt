@@ -1,0 +1,8 @@
+GLOBAL=DeviceName~20160526~channel~1,TRUE
+RLVSYS=on~1
+AUTH=owner~4986014c-2eaa-4c39-a423-04e1819b0fbf~norun~1~group~e4423682-acdc-2130-fb88-ae6160f64c8a~groupname~K-Bar West
+LEASH=unleashself~0~leashlength~2~leashedto~4986014c-2eaa-4c39-a423-04e1819b0fbf,500,1,0
+ANIM=PoseMoveWalk~~walk_Female3~PoseMoveRun~~run_Female3~TweakPoseAO~1~currentpose~naduw,503
+RELAY=mode~1035
+PARTICLE=C_Texture~Chain~ParticleMode~Classic
+TITLER=title~roan the slave girl~on~1~auth~500
