@@ -7,3 +7,4 @@ PARTICLE=C_Texture~Chain~ParticleMode~Classic
 TITLER=title~Property of K-Bar Ranch~on~1~auth~500
 KBMUTER=List~MuteOn,n~BaseLevel~0~BaseRenamer~0~BaseLimitChat~0~BaseLimitStart~0~BaseLimitIMs~0~EnhdRenamer~0~EnhdLimitChat~0~EnhdLimitStart~0~EnhdLimitIMs~0~SlaveName~lily
 KBPROG=List~ProgramRun,y,ProgLoop,y
+BOOKMARKS=Home~KBar West(61,193,24)
