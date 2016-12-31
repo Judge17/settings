@@ -9,3 +9,4 @@ KBMUTER=List~MuteOn,n~BaseLevel~0~BaseRenamer~0~BaseLimitChat~0~BaseLimitStart~0
 KBPROG=List~ProgramRun,y,ProgLoop,y
 BOOKMARKS=Skua's House~McKindred Shores(22,244,29)~Milena Building~Maleo Isle(176,199,1998)~Adult Hub~Adult Hub(128,127,49)~Cage Club~Adult Hub BDSM(113,153,40)~Teegan's Place~Lesser Farnley(12,237,2927)~Geezerly's Place~Hamilton Island(199,51,21)~Home~KBar West(89,205,1221)~Ironwood~Lost Boys(179,88,11)
 KBTP=Active~y
+RELAY=mode~1167
