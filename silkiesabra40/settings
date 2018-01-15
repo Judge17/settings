@@ -1,7 +1,7 @@
 GLOBAL=DeviceName~seal slave collar~channel~1,TRUE~locked~1
 RLVSYS=on~1
 AUTH=owner~4986014c-2eaa-4c39-a423-04e1819b0fbf~norun~1~group~e4423682-acdc-2130-fb88-ae6160f64c8a~groupname~K-Bar West~trust~094dc638-4b6d-4191-8a8d-2740a1989985
-LEASH=unleashself~0~leashlength~2~leashedto~4986014c-2eaa-4c39-a423-04e1819b0fbf,500,1,0
+LEASH=unleashself~0~leashlength~2
 PARTICLE=C_Texture~Chain~ParticleMode~Classic
 TITLER=title~Property of Judge Kurt Burleigh~on~1~auth~500
 LEASH=unleashself~0~leashlength~2
