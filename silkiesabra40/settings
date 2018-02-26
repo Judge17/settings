@@ -4,11 +4,8 @@ AUTH=owner~4986014c-2eaa-4c39-a423-04e1819b0fbf~norun~1~group~e4423682-acdc-2130
 LEASH=unleashself~0~leashlength~2
 PARTICLE=C_Texture~Chain~ParticleMode~Classic
 TITLER=title~Property of Judge Kurt Burleigh~on~1~auth~500
-LEASH=unleashself~0~leashlength~2
 KBMUTER=List~MuteOn,n~BaseLevel~0~BaseRenamer~0~BaseLimitChat~0~BaseLimitStart~0~BaseLimitIMs~0~EnhdRenamer~0~EnhdLimitChat~0~EnhdLimitStart~1~EnhdLimitIMs~1~SlaveName~roan
 KBPROG=List~ProgramRun,y,ProgLoop,y
-BOOKMARKS=Skua's House~McKindred Shores(22,244,29)~Milena Building~Maleo Isle(176,199,1998)~Adult Hub~Adult Hub(128,127,49)~Cage Club~Adult Hub BDSM(113,153,40)~Teegan's Place~Lesser Farnley(12,237,2927)~Geezerly's Place~Hamilton Island(199,51,21)~Home~KBar West(89,205,1221)~Ironwood~Lost Boys(179,88,11)~Directors~Pirandello Bay(126,174,708)
+BOOKMARKS=Skua's House~McKindred Shores(22,244,29)~Adult Hub~Adult Hub(128,127,49)~Cage Club~Adult Hub BDSM(113,153,40)~Home~KBar West(89,205,1221)~Directors~Blacksilk(76,156,56)~Beachhouse~Bhaga(215,52,26)~Classroom~Xaara Artisan Park(105,217,1501)
 KBTP=Active~n
 RELAY=mode~1167
-
-
