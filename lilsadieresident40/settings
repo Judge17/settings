@@ -1,4 +1,4 @@
-GLOBAL=DeviceName~K-Bar slave collar~channel~1,TRUE~prefix~ss~locked~1
+GLOBAL=DeviceName~lily slave collar~channel~1,TRUE~prefix~ss~locked~1
 RLVSYS=on~1
 AUTH=owner~4986014c-2eaa-4c39-a423-04e1819b0fbf~norun~1~group~e4423682-acdc-2130-fb88-ae6160f64c8a~groupname~K-Bar West~trust~094dc638-4b6d-4191-8a8d-2740a1989985,267b30be-0be0-4cc2-a67b-876b30e3a28d,6a7c66ab-f599-4077-b232-81798f53f79f,db7a4256-61dd-4628-b188-1e3f718beeea
 RLVSYS=on~1
@@ -7,4 +7,4 @@ PARTICLE=C_Texture~Chain~ParticleMode~Classic
 TITLER=title~Property of K-Bar Ranch~on~1~auth~500
 KBMUTER=List~MuteOn,n~BaseLevel~0~BaseRenamer~0~BaseLimitChat~0~BaseLimitStart~0~BaseLimitIMs~0~EnhdRenamer~0~EnhdLimitChat~0~EnhdLimitStart~0~EnhdLimitIMs~0~SlaveName~lily
 KBPROG=List~ProgramRun,y,ProgLoop,y
-BOOKMARKS=Home~KBar West(61,193,24)
+BOOKMARKS=Home~KBar West(61,193,24)~Adult Hub~Adult Hub(128,127,49)~Cage Club~Adult Hub BDSM(113,153,40)~Directors~Blacksilk(76,156,56)~Classroom~Xaara Artisan Park(105,217,1501)~Skua's Corner~McKindred Canoodle(38,221,7)~K-Bar West Annex~Claris Beck(215,247,1502)~Skuahelp place~Pitch(62,185,62)~Sanctuary~Vineyard Isle Valley(195,186,2001)~Space1~KBar West(79,63,1518)

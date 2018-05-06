@@ -5,6 +5,6 @@ PARTICLE=C_Texture~Chain~ParticleMode~Classic
 TITLER=title~Property of Judge Kurt Burleigh~on~1~auth~500
 KBMUTER=List~MuteOn,n~BaseLevel~0~BaseRenamer~0~BaseLimitChat~0~BaseLimitStart~0~BaseLimitIMs~0~EnhdRenamer~0~EnhdLimitChat~0~EnhdLimitStart~1~EnhdLimitIMs~1~SlaveName~roan
 KBPROG=List~ProgramRun,y,ProgLoop,y
-BOOKMARKS=Skua's Corner~McKindred Canoodle(38,221,7)~Adult Hub~Adult Hub(128,127,49)~Cage Club~Adult Hub BDSM(113,153,40)~K-Bar West Annex~Claris Beck(215,247,1502)~Home~KBar West(89,205,1221)~Directors~Blacksilk(76,156,56)~Classroom~Xaara Artisan Park(105,217,1501)~Skuas help place~Pitch(62,185,62)~Sanctuary~Vineyard Isle Valley(195,186,2001)
+BOOKMARKS=Skua's Corner~McKindred Canoodle(38,221,7)~Adult Hub~Adult Hub(128,127,49)~Cage Club~Adult Hub BDSM(113,153,40)~K-Bar West Annex~Claris Beck(215,247,1502)~Home~KBar West(89,205,1221)~Directors~Blacksilk(76,156,56)~Classroom~Xaara Artisan Park(105,217,1501)~Skuahelp~Pitch(62,185,62)~Sanctuary~Vineyard Isle Valley(195,186,2001)~Space1~KBar West(79,63,1518)
 KBTP=Active~y
 RELAY=mode~1167
