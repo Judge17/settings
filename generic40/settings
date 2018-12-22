@@ -1,4 +1,4 @@
-GLOBAL=DeviceName~OpenCollar~channel~1,TRUE
+GLOBAL=DeviceName~OpenCollar~channel~1,TRUE~kbar~1
 RLVSYS=on~1
 AUTH=owner~4986014c-2eaa-4c39-a423-04e1819b0fbf,Kurt Burleigh~norun~1~group~e4423682-acdc-2130-fb88-ae6160f64c8a~groupname~K-Bar West
 LEASH=unleashself~0~leashlength~2
