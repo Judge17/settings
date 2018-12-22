@@ -4,4 +4,4 @@ AUTH=owner~4986014c-2eaa-4c39-a423-04e1819b0fbf,Kurt Burleigh~norun~1~group~e442
 LEASH=unleashself~0~leashlength~2
 KBMUTER=List~MuteOn,n~BaseLevel~0~BaseRenamer~0~BaseLimitChat~0~BaseLimitStart~0~BaseLimitIMs~0~EnhdRenamer~0~EnhdLimitChat~0~EnhdLimitStart~1~EnhdLimitIMs~1~SlaveName~mitzi
 BOOKMARKS=Home~Broceliande(140,21,33)~KLost~Kingdom Lost(225,128,2046)
-KBPROG=List~ProgramRun,y,ProgLoop,y
+KBPROGRAMMER=List~ProgramRun,y,ProgLoop,y
