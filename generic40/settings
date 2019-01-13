@@ -1,6 +1,6 @@
 GLOBAL=DeviceName~OpenCollar~channel~1,TRUE~kbar~1
 RLVSYS=on~1
-AUTH=owner~4986014c-2eaa-4c39-a423-04e1819b0fbf,Kurt Burleigh~norun~1~group~e4423682-acdc-2130-fb88-ae6160f64c8a~groupname~K-Bar West
+AUTH=norun~1
 LEASH=unleashself~0~leashlength~2
 KBMUTER=List~MuteOn,n~BaseLevel~0~BaseRenamer~0~BaseLimitChat~0~BaseLimitStart~0~BaseLimitIMs~0~EnhdRenamer~0~EnhdLimitChat~0~EnhdLimitStart~1~EnhdLimitIMs~1~SlaveName~mitzi
 BOOKMARKS=Home~Broceliande(140,21,33)~KLost~Kingdom Lost(225,128,2046)
