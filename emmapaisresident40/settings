@@ -1,0 +1,4 @@
+GLOBAL=DeviceName~OpenCollar~channel~1,TRUE
+RLVSYS=on~1
+AUTH=owner~1a828b4e-6345-4bb3-8d41-f93e6621ba25,Silkie Sabra~norun~1~group~e4423682-acdc-2130-fb88-ae6160f64c8a~groupname~K-Bar West
+LEASH=unleashself~0~leashlength~2
