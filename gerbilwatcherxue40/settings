@@ -1,8 +1,8 @@
-GLOBAL=DeviceName~g's flower collar~channel~1,TRUE~prefix~ge~locked~0
+GLOBAL=DeviceName~g's trifecta collar~channel~1,TRUE~prefix~ge~locked~0
 RLVSYS=on~1
-TITLER=title~K-Bar Protected Submissive~on~1~auth~500~height~0.50000
+TITLER=title~KBartender~on~1~auth~500~height~0.50000
 AUTH=owner~4986014c-2eaa-4c39-a423-04e1819b0fbf~norun~1~group~e4423682-acdc-2130-fb88-ae6160f64c8a~groupname~K-Bar West
-KBMUTER=List~MuteOn,n~BaseLevel~0~BaseRenamer~0~BaseLimitChat~0~BaseLimitStart~0~BaseLimitIMs~0~EnhdRenamer~0~EnhdLimitChat~0~EnhdLimitStart~0~EnhdLimitIMs~0~SlaveName~cherry
+KBMUTER=SlaveName~cherry
 LEASH=unleashself~0~leashlength~2
 PARTICLE=Color~<0.000000, 0.000000, 0.000000>
 
