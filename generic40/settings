@@ -1,4 +1,4 @@
-GLOBAL=DeviceName~KBarCollar~channel~1,TRUE~kbar~1~kbarstatlock~0~kbarstat~2~slavemsg~you are a slut
+GLOBAL=DeviceName~KBarCollar~channel~1,TRUE
 RLVSYS=on~1
 AUTH=norun~1
 LEASH=unleashself~0~leashlength~2
