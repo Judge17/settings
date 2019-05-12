@@ -1,9 +1,9 @@
 GLOBAL=DeviceName~ollie's trifecta collar~channel~1,TRUE~locked~1~prefix~ol~kbar~1~kbarstatlock~0~kbarstat~1
 AUTH=owner~4986014c-2eaa-4c39-a423-04e1819b0fbf~norun~1~group~e4423682-acdc-2130-fb88-ae6160f64c8a~groupname~K-Bar West~trust~094dc638-4b6d-4191-8a8d-2740a1989985
 LEASH=unleashself~0~leashlength~2
-BOOKMARKS=Masters Chair~KBar West(57,198,24)~ollies cell~KBar West(227,222,44)~home~KBar West(227,222,44)
+BOOKMARKS=Masters Chair~KBar West(57,198,24)~ollies cell~KBar West(227,222,44)~home~KBar West(227,222,44)~xaara main~Xaara(85,133,25)
 PARTICLE=c_texture~Chain~particlemode~Classic~C_Texture~Chain~ParticleMode~Classic
 TITLER=title~K-Bar Protected Submissive~on~1~auth~500
 KBMUTER=SlaveName~ollie
 KBPROGRAMS=List~ProgramRun,y,ProgLoop,y
-KBTP=Active~n
+KBTP=Active~y
