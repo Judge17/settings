@@ -1,7 +1,7 @@
 GLOBAL=DeviceName~g's trifecta collar~channel~1,TRUE~prefix~ge~locked~1
 RLVSYS=on~1
 TITLER=title~KBartender~on~1~auth~500~height~0.50000
-AUTH=owner~4986014c-2eaa-4c39-a423-04e1819b0fbf~norun~1~group~e4423682-acdc-2130-fb88-ae6160f64c8a~groupname~K-Bar West
+AUTH=owner~4986014c-2eaa-4c39-a423-04e1819b0fbf~norun~1~group~e4423682-acdc-2130-fb88-ae6160f64c8a~groupname~K-Bar West~trust~d864a309-89d9-4f0d-806b-e1d262b29a63
 KBMUTER=SlaveName~cherry
 LEASH=unleashself~0~leashlength~2
 PARTICLE=Color~<0.000000, 0.000000, 0.000000>
