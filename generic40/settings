@@ -2,5 +2,4 @@ GLOBAL=DeviceName~KBarCollar~channel~1,TRUE
 RLVSYS=on~1
 AUTH=norun~1
 LEASH=unleashself~0~leashlength~2
-KBMUTER=SlaveName~nameless
 TITLER=title~K-Bar Asset~on~1~auth~500~SlaveName~nameless~KbarTitle~guest
