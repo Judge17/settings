@@ -2,4 +2,4 @@ GLOBAL=DeviceName~KBarCollar~channel~1,TRUE
 RLVSYS=on~1
 AUTH=norun~1
 LEASH=unleashself~0~leashlength~2
-TITLER=title~K-Bar Guest~on~1~auth~500~SlaveName~guest
+TITLER=title~Guest at the K-Bar Ranch~on~1~auth~500~SlaveName~monica~KbarTitle~guest
