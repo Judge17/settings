@@ -6,4 +6,4 @@ PARTICLE=c_texture~Chain~particlemode~Classic~C_Texture~Chain~ParticleMode~Class
 TITLER=title~K-Bar Ranch~on~1~auth~500~SlaveName~ollie~KbarTitle~slave
 KBMUTER=SlaveName~ollie
 KBPROGRAMS=List~ProgramRun,y,ProgLoop,y
-KBTP=Active~n
+KBTP=Active~y
