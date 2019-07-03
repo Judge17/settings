@@ -4,3 +4,7 @@ AUTH=norun~1
 LEASH=unleashself~0~leashlength~2
 TITLER=title~K-Bar Guest~on~0~auth~500~SlaveName~guest
 KBWHISPER=ProgramRun~n~ProgLoop~n
+KBPROGRAM=anything~n
+KBTP=Active~n
+KBL=something~x
+KBMUTER=whoknows~q~somethingelse~zzz
