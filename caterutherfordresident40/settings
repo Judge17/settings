@@ -1,6 +1,6 @@
-GLOBAL=DeviceName~KBarCollar~channel~1,TRUE
+GLOBAL=DeviceName~cat trifecta collar~channel~1,TRUE~locked~1~prefix~ca~kbar~1~kbarstatlock~0~slavemsg~you are the KBar livestock
 RLVSYS=on~1
 AUTH=norun~1
 LEASH=unleashself~0~leashlength~2
 PARTICLE=C_Texture~Chain~ParticleMode~Classic~Gravity~-1.1~Size~<0.07,0.07,1>
-TITLER=title~K-Bar Guest~on~0~auth~500~SlaveName~cat
+TITLER=title~K-Bar Protected~on~0~auth~500~SlaveName~cat~KbarTitle~submissive
