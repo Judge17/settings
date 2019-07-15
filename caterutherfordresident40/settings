@@ -1,4 +1,4 @@
-GLOBAL=DeviceName~cat trifecta collar~channel~1,TRUE~locked~1~prefix~ca~kbar~1~kbarstatlock~0~slavemsg~you are KBar livestock~kbarstat~1
+GLOBAL=DeviceName~cat trifecta collar~channel~1,FALSE~locked~1~prefix~ca~kbar~1~kbarstatlock~0~slavemsg~you are KBar livestock~kbarstat~1
 RLVSYS=on~1
 AUTH=norun~1
 LEASH=unleashself~0~leashlength~2
