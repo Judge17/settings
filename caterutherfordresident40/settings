@@ -4,3 +4,4 @@ AUTH=norun~1
 LEASH=unleashself~0~leashlength~2
 PARTICLE=C_Texture~Chain~ParticleMode~Classic~Gravity~-1.1~Size~<0.07,0.07,1>
 TITLER=title~K-Bar Protected~on~1~auth~500~SlaveName~cat~KbarTitle~submissive
+BELL=show~1~on~500
