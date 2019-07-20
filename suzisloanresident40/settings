@@ -4,4 +4,5 @@ LEASH=unleashself~0~leashlength~2
 PARTICLE=C_Texture~Chain~ParticleMode~Classic
 RELAY=mode~1131
 TITLER=title~K-Bar Ranch~on~1~auth~500~SlaveName~fluzi~KbarTitle~slave
+BELL=show~1~on~500
 
