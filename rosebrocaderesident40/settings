@@ -1,5 +1,5 @@
-GLOBAL=DeviceName~rose trifecta collar~channel~1,TRUE~locked~1~prefix~rb~kbar~1
+GLOBAL=DeviceName~rose's trifecta collar~channel~1,TRUE~locked~1~prefix~rb~kbar~1~kbarstatlock~0~kbarstat~1
 AUTH=owner~4986014c-2eaa-4c39-a423-04e1819b0fbf
 LEASH=unleashself~0~leashlength~2~turn~1
 PARTICLE=C_Texture~Chain~ParticleMode~Classic
-TITLER=title~KBar Guest~on~1~auth~500~SlaveName~rose
+TITLER=title~K-Bar Protected~on~1~auth~500~SlaveName~rose~KbarTitle~submissive
