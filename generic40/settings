@@ -2,6 +2,5 @@ GLOBAL=DeviceName~KBarCollar~channel~1,TRUE
 RLVSYS=on~1
 AUTH=norun~1
 LEASH=unleashself~0~leashlength~2
-TITLER=title~Guest~on~0~auth~500~SlaveName~guest
+TITLER=title~Guest~on~0~auth~500~SlaveName~guest~KbarTitle~slave
 KBWHISPER=ProgramRun~n~ProgLoop~n
-
