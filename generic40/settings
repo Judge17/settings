@@ -1,4 +1,4 @@
-GLOBAL=DeviceName~KBarCollar~channel~1,TRUE~SWActive=0
+GLOBAL=DeviceName~KBarCollar~channel~1,TRUE~SWActive~0
 RLVSYS=on~1
 AUTH=norun~1
 LEASH=unleashself~0~leashlength~2
