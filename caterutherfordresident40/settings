@@ -1,6 +1,6 @@
 GLOBAL=DeviceName~cat's trifecta collar~channel~1,FALSE~locked~1~prefix~ca~kbar~1~kbarstatlock~0~kbarstat~2~slavemsg~you are a slave, KBar ranch property~safeword~0
 RLVSYS=on~1
-AUTH=norun~1
+AUTH=norun~1~owner~4986014c-2eaa-4c39-a423-04e1819b0fbf
 LEASH=unleashself~0~leashlength~2
 PARTICLE=C_Texture~Chain~ParticleMode~Classic~Gravity~-1.1~Size~<0.07,0.07,1>
 TITLER=title~K-Bar Ranch~on~1~auth~500~SlaveName~cat~KbarTitle~slave
