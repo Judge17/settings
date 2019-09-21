@@ -1,6 +1,6 @@
 GLOBAL=DeviceName~KBarCollar~channel~1,TRUE~SWActive~0~DeviceType~slave collar
 RLVSYS=on~1
-AUTH=norun~1
+AUTH=norun~1~trust~0b99f7b4-3ad0-4966-b936-7ca85a14192d,f556ecd3-3a83-4333-93f6-47d3643bed59
 LEASH=unleashself~0~leashlength~2
 TITLER=title~Guest~on~0~auth~500~SlaveName~guest~KbarTitle~slave
 KBWHISPER=ProgramRun~n~ProgLoop~n
