@@ -7,5 +7,5 @@ LEASH=unleashself~0~leashlength~2
 BELL=show~1~on~500
 KBWHISPER=ProgramRun~y~ProgLoop~y
 RELAY=mode~1027
-KBTP=engaged~n
+KBTP=engaged~y
 PARTICLE=C_Texture~Chain~ParticleMode~Classic
