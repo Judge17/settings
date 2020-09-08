@@ -1,0 +1,9 @@
+GLOBAL=DeviceName~raven's minimal collar~channel~1,TRUE~prefix~ge~locked~1~slavemsg~you are the Judge's helpless bartender and gogo dancer~safeword~0
+RLVSYS=on~1
+TITLER=title~KBar tender~on~1~auth~500~height~0.50000~SlaveName~raven~KbarTitle~KBartender
+AUTH=owner~4986014c-2eaa-4c39-a423-04e1819b0fbf~norun~1
+KBMUTER=SlaveName~cherry
+LEASH=unleashself~0~leashlength~2
+PARTICLE=C_Texture~Chain~ParticleMode~Classic
+RELAY=mode~1167
+BELL=show~1~on~500

@@ -1,8 +1,0 @@
-GLOBAL=DeviceName~g's trifecta collar~channel~1,TRUE~prefix~ge~locked~0
-RLVSYS=on~1
-TITLER=title~KBar tender~on~1~auth~500~height~0.50000~SlaveName~cherry~KbarTitle~KBartender
-AUTH=owner~64568252-7eaf-48b5-8388-242ddaae2c0d~norun~1~group~e4423682-acdc-2130-fb88-ae6160f64c8a~groupname~K-Bar West~trust~d864a309-89d9-4f0d-806b-e1d262b29a63
-KBMUTER=SlaveName~cherry
-LEASH=unleashself~0~leashlength~2
-PARTICLE=Color~<0.000000, 0.000000, 0.000000>
-
